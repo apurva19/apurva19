@@ -9,12 +9,11 @@
 [![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurva19&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=radical&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### Skills
 <img src="https://user-images.githubusercontent.com/34369830/124351372-6dd58380-dc17-11eb-9b62-94c94ab370c3.png" width="60" height="60">&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/34369830/124351375-74fc9180-dc17-11eb-8103-7a11b778ba3b.png" width="60" height="60">&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/34369830/124350838-885a2d80-dc14-11eb-8d28-ae11e32de859.png" width="60" height="60">&nbsp;&nbsp; 
-<img src="https://drive.google.com/uc?export=view&id=1GsghP2Bz9Y5FXW-ITzypcfGJj0o-OekB" width="60" height="60">&nbsp;&nbsp; 
+<img src="https://user-images.githubusercontent.com/34369830/124356653-afc0f280-dc34-11eb-9cf2-bcf9d193eac9.png" width="60" height="60">&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/34369830/124355007-a895e680-dc2c-11eb-93ff-1d4c15f5f125.png" width="60" height="60">&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/34369830/124355026-c5321e80-dc2c-11eb-9dfd-3ff0bb42718c.png" width="60" height="60">&nbsp;&nbsp; 
 <img src="https://user-images.githubusercontent.com/34369830/124351309-3bc42180-dc17-11eb-9ebc-2dc42f186c22.png" width="60" height="60">&nbsp;&nbsp; 
